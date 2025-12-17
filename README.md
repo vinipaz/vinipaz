@@ -1,5 +1,3 @@
-Oi, eu sou o Vinícius Paz!
-
 <div>
   <a href="https://github.com/vinipaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipaz&layout=compact&langs_count=16&theme=tokyonight" />
